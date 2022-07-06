@@ -30,4 +30,4 @@ yarn start
 
 Aplicativo de mercado, basta colocar seu nome e o saldo para ser redirecionado para o menu de compras.
 
-Link: https://app-mercado-one.vercel.app/
+Link do deploy: https://app-mercado-one.vercel.app/
